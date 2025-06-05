@@ -13,3 +13,8 @@ This is a basic command-line application built in Python to calculate GPA and CG
 ## 📂 Tech Stack
 - Python (Standard Library)  
 - No external dependencies
+
+## 💻 How to Run
+- Open your terminal  
+- Navigate to the project folder  
+- Run: `python cgpa_calculator.py`
